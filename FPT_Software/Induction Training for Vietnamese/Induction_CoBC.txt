@@ -1,0 +1,126 @@
+FPT Software nỗ lực xây dựng một môi trường làm việc đảm bảo nguyên
+tắc nào sau đây? - Tất cả phương án trên
+
+Chị T là được giao phỏng vấn tuyển Tester cho Công ty, Chị T theo tôn giáo X và
+vì ứng viên A theo tôn giáo Y nên bị loại đủ năng lực của A vượt trội hơn các
+ứng viên khác. Hành vi của Chị T có vi phạm Bộ quy tắc không? - Có. Vì hành vi của T đã vi phạm nguyên tắc 'Cơ hội được
+tuyển dụng một cách công bằng" về việc không cho phép
+bất cứ sự phân biệt đối xử nào về tôn giáo, và các nguyên
+tắc trong hoạt động tuyển chọn nhân lực
+
+Mỗi khi gặp các bạn nữ mới vào Công ty làm việc, Anh T thường hay trêu ghẹo
+bằng những lời khiếm nhã khiến các bạn nữ cảm thấy phiền lòng và e ngại anh.
+Hành vi của anh T có vi phạm Bộ quy tắc không? - Có. Vì FPT Software nghiêm cấm mọi hành vi
+quấy rối người khác của bất kỳ cá nhân nào,
+dưới bất kỳ hình thức nào dù là cố ý hay vô ý,
+bằng lời nói hay hành động
+
+Khi bạn muốn tham gia vào việc phát triển hoặc sử dụng phần mềm mã nguồn mở,
+bạn phải được sự chấp thuận bằng văn bản của bộ phận nào? - !ISM
+
+Để có hướng dẫn cụ thể về việc sử dụng và chấp thuận về nhãn hiệu của FPT
+Software, bạn cần liên hệ bộ phận nào? - !ISM
+
+A được Người quản lý trực tiếp giao nhiệm vụ phát
+triển phần mềm nhận diện hình ảnh X. Không lâu sau
+đó, A được giao nhiệm vụ phát triển phần mềm Y
+cho khách hàng. Do phần mềm mà khách hàng yêu
+cầu thực hiện có phần tương tự với phần mềm X vì
+vậy A đã dùng phần mềm X để làm thành giải pháp
+trong phần mềm Y cho khách hàng. Tuy nhiên, A đã
+không thông báo trước cho Người quản lý và khách
+hàng về nguồn gốc phần mềm X là do mình đã phát
+triển trước khi tham gia dự án của khách hàng. Hành
+vi của A có vi phạm Bộ quy tắc không? - Có. Vì Khi sử dụng những phần mềm này trong
+thực hiện công việc với khách hàng. bạn cần phải
+được sự đồng ý từ Người quản lý của bạn và
+tham khảo ý kiến của Bộ phận tuân thủ (LRC)
+nếu oan thiết. Đồng thời, khách hàng phải được
+thông bảo về việc bạn sử dụng những phần mềm
+này cho công việc hoặc dự án của Khách hàng
+
+Nhận định nào sau đây đúng? - FPT Software đảm bảo sự cân bằng giữa việc tạo ra
+lợi nhuận song song với việc nâng cao trình độ của
+người lao động, nâng cao chất lượng cuộc sống của
+cộng đồng xã hội và góp phần bảo vệ môi trường
+
+Hành vi nào sau đây vi phạm các yêu cầu đổi với hồ sơ kinh doanh và tài
+chính? - Bóp méo bản chất của giao dịch để
+chuộc lợi
+
+Là nhân viên của FSoft, trách nhiệm của bạn đối với thông tin của khách
+hàng là gì? - Tất cả phương án trên
+
+Nhân viên FPT Software chỉ có thể sở hữu hơn mức 1 % vốn của bất kỳ công ty của
+khách hàng hoặc nhà cung cấp hoặc đối thủ cạnh tranh của FPT Software khi: - Có sự chấp thuận trước bằng văn bản
+của Bộ phận tuân thủ (LRC)
+
+Chị P là nhân viên phòng nhân sự, tình cờ Chị P nhận được bảng lương của các
+nhân viên trong Công ty, Chị P đã chia sẽ thông tin lương này với người quen
+của Chị P trong Công ty. Hành vi của P có vi phạm Bộ quy tắc không? - Không. VÌ P chỉ chia sẻ thông tin với
+những nhân viên trong Công ty
+
+Một người quản lý yêu cầu nhân viên sử dụng thời gian làm việc tại Công ty để
+phát triển 1 phần mềm cho bạn thân của người quản lý. Người quản lý đó có vi
+phạm Bộ quy tắc không? - Có. Vì người quản lý đã sử dụng sai mục
+đích tài sản của Công ty là thời gian làm
+việc của nhân viên
+
+
+Nếu bạn có toàn quyền trong việc giao dịch với Nhà cung cấp A như một
+phần công việc của bạn tại FPT Software thì bạn: - —
+Không nên có bất kỳ lợi ích tài chính nào liên
+quan đến công ty A nếu không có sự chấp
+thuận trước bằng văn bản của Bộ phận tuân
+thủ (LRC)
+
+Hành vi nào sau đây vi phạm Bộ quy tắc? - Cả A và B đúng
+
+Khi được đồng nghiệp nhờ, anh T đã sử dụng các đĩa phần mềm của Công ty để
+cài đặt máy tính cá nhân thuộc sở hữu của đồng nghiệp đó. Hành vi của T có vi
+phạm Bộ quy tắc không? - Có. VÌ T đã sử dụng sai mục đích tài sản
+của Công ty là các phần mềm trong các
+đĩa phần mềm.
+
+Anh A là Trưởng Bộ phận IT. Vì laptop của A bị mất, A đã mang laptop mà Công
+ty cấp cho A để làm việc về nhà cho con gái A làm bài tập. Hành động của A có
+được phép không? - Không được phép. Vì mọi hành vi sử dụng tài
+sản của Công ty cho bất kì mục đích nào khác
+ngoài mục đích công việc và lợi ích của Công
+ty đều không được phép thực hiện
+
+Nếu bạn có người thân làm việc hoặc đầu tư vào các công ty là đối thủ cạnh
+tranh của FPT Software, bạn cần: - !Không cần làm gì
+
+Hành vi thu thập thông tin cạnh tranh nào sau đây là bị cấm? - Tham gia vào bất kỳ hành vi bất hợp pháp nào
+để có được thông tin cạnh tranh như đánh
+cắp, nghe trộm, ghi âm, hối lộ, …
+
+Hoạt động mua hàng hóa và dịch vụ cũng như việc lựa chọn nhà cung cấp phải
+được thực hiện dựa trên nhu cầu thực tế, chất lượng, giá cả và các tiêu chí
+được xác định một cách cụ thể và hợp lý khác. Nhận định này Đúng hay Sai? - Đúng
+
+Trong quá trình làm việc với khách hàng, bạn phải có ý thức bảo vệ quyền sở hữu trí tuệ
+đối với các phần mềm thuộc sở hữu của FPT Software là đúng hay sai? - Đúng
+
+Hội đồng tuân thủ bao gồm những ai? - !Bao gồm Bộ phận tuân thủ (LRC) và Phó tổng
+giám đốc phụ trách vấn đề tuân thủ của Công
+ty
+
+Hãy sắp đúng theo mô hình FSOFT,
+khi bạn cần đưa ra quyết định:
+(1) Search solution: Tìm kiếm giải pháp
+(2) Foresee issue: Dự đoán tm'ớc về những tình huống đạo đức
+(3) Observe regulation: Tuân thủ các quy định hiện hành
+(4) Take action: Hành động để giải quyết tình huống đạo đức
+(5) Follow consultancy: Làm theo sự hướng dẫn - 2,1,3,5,4
+
+Vì nhu cầu công việc, nhân viên A cần phải cài đặt phần mềm đặc biệt vào máy
+tính do Công ty cấp, trước khi cài phần mềm này, A cần phải có sự phê duyệt
+bằng văn bản của bộ phận nào? - !Bộ phận công nghệ thông tin (IT)
+
+Trong trường hợp có sự mâu thuẫn giữa luật và Bộ quy tắc, văn bản nào sẽ
+được ưu tiên áp dụng? - Luật
+
+Nếu bạn thuộc trường hợp cần có sự phê duyệt bằng văn bản,
+bạn cần liên hệ ai hoặc bộ phận nào? - A và B đều đúng
