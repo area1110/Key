@@ -1,0 +1,30 @@
+Trong các nhận định sau, nhận định nào đúng về "Xử lý dữ liệu dựa trên
+mục đích chính đáng" ? - Tất cả đều đúng
+
+"Chỉ lưu trữ thông tin cá nhân trong khoảng thời gian cần thiệt theo quy định,
+lý do pháp lý hoặc do các mục đích tổ chức hợp pháp, và đảm bảo việc huỷ
+thông tin kịp thời và phù hợp." Câu này đẻ cập đến . - Giới hạn lưu trữ
+
+Trong các nhận định sau, nhận định nào đúng về "Thoả thuận xử lý dữ liệu" ? - Tất cả đều đúng
+
+"Chỉ xử lý ở mức tối thiểu các thông tin cá nhân cho các mục đích cần thiệt, đầy
+đủ, phù hợp, và chỉ giới hạn đến những gì cần thiết và có liên quan đến mục
+đích được xử lý." Câu này đệ cập đến . - Giảm thiểu dữ liệu
+
+FPT Software xử lý dữ liệu cá nhân thay mặt cho khách hàng.
+Trong trường hợp này, FPT Software là . - Đơn vị xử lý dữ liệu
+
+Thông tin cá nhân cũng có thế được xử lý nếu cần để thực thi quyền lợi hợp
+pháp của FPT Software. - Đúng
+
+"Việc thu thập dữ liệu cho các mục đích rõ ràng, hợp pháp, được chỉ định rõ
+ràng, và chỉ để xử lý cho các mục đích này chứ không phải vì bât kỳ mục đích
+nào khác hay hình thức nào khác." Câu này đề cập đến . - GIới hạn mục đích
+
+là những cá nhân có thế được nhận diện một cách trực tiếp
+hoặc gián tiếp. - Chủ thể dữ liệu
+
+FPT Software xử lý dữ liệu cá nhân của nhân viên.
+Trong trường hợp này thì FPT Software là. - Đơn vị kiểm soát dữ liệu
+
+Các chủ thể dữ liệu có những quyền lợi gì? - A&B
