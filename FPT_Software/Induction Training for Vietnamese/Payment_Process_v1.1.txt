@@ -1,0 +1,74 @@
+Nếu vi phạm thời hạn thanh toán, hình thức xử lý nào sau đây là đúng? - Tất cả các phương án trên
+
+Các trường hợp nào sau đây được xem là "Sử dụng hóa đơn bất hợp pháp" - Cả 3 trường hợp trên
+
+Nếu trong cùng một ngày mà nhà cung cấp xuất nhiều hóa đơn cho công ty, giá trị mỗi hóa đơn nhỏ hơn 20
+triệu đồng nhưng tổng giá trị các hóa đơn lớn hơn hoặc bằng 20 triệu đông thì có thể thanh toán tiền mặt cho
+từng hóa đơn không? - Có
+
+Trường hợp nào được công ty tạm ứng ngoại tệ bằng tiền mặt? - Khi CBNV đi công tác nước ngoài phục vụ cho công ty
+ 
+CBNV khi submit thanh toán được yêu cầu att những loại chứng từ nào? - Cả 2 phương án trên
+
+Tình huống: Một dự án A tổ chức teambuilding ở 1 nhà hàng X, mà nhà hàng này không có hóa đơn nền dự án
+đã đi mua hóa đơn ở 1 nhà hàng khác có cung cấp hóa đơn để làm thanh toán. Vậy việc này là đúng hay sai? - Sai
+
+Trong trường hợp CBNV có phát sinh chi phí nằm ngoài quy định trong phụ lục hướng dẫn thì CBNV cần
+làm gì? - Tham vấn cán bộ kế toán trước khi thực hiện
+
+Sau khi nhập đã nghị trên hệ thống thanh toán online thì sau bao lâu bạn phải nộp chứng từ bản cứng? - Nộp chứng từ bản cứng ngay sau khi được
+phê duyệt
+
+Tình huống: Dự án A tổ chức teambuilding ở 1 nhà hàng hết tổng chi phí là 25M. Để tránh việc phải thanh toán chuyển khoản cho nhà hàng, dự án đã yêu cầu nhà hàng tách thành 2 hóa đơn dưới 20M. Việc làm này là đúng hay sai? - Sai
+
+tình huống: Một dự án tổ chức teambuilding vào tháng 12/2018, hóa đơn xuất vào tháng 1/2019 thì có được coi là hợp lệ hay không? - Không
+
+Trong các nhận định sau, nhận định nào là sai? - Các cá nhân ký hợp đồng yêu cầu phải cung cấp chính xác thông tin thông tin số CMT/CCCD hoặc số hộ chiều, không cần mã số thuế cá nhân
+
+CBNV khi submit thanh toán Hợp đồng dịch vụ cá nhân, trường thông tin mã số thuế cần điền là thông tin gì? - CMT hoặc CCCD của cá nhân cung ứng dịch vụ theo Hợp đồng.
+
+Khi thanh toán hợp đồng dịch vụ cá nhân có bắt buộc phải có tờ tra cứu mã số thuế cá nhân không? Tra cứu thông tin ở đâu? - CÓ, trên trang cục thuế
+
+Trong quy định về thanh toán và hình thức thanh toán khi thanh toán tiền mặt cần yêu cầu nhà cung cấp làm gì? - Yêu cầu nhà cung cấp viết phiếu thu, giấy
+biên nhận tiền hoặc đóng dấu xác nhận đã thanh toán tiền trên hóa đơn thanh toán
+
+Nếu sử dụng hóa đơn bất hợp pháp, các cá nhân liên quan sẽ: - Tất cả các phương án trên
+
+Theo quy định chung, một bộ hồ sơ thanh toán đầy đủ gồm các chứng từ sau: - Tất cả các ý nêu trên
+
+Sau khi nhập đề nghị trên hệ thống thanh toán online thì CBNV có trách nhiệm - Theo dõi và đốc thúc việc phê duyệt thanh toán, nộp hồ sơ bản cứng lên AF để tránh bị phạt thanh toán muộn theo quy định
+
+Một bộ hồ sơ thanh toán teambuilding tối thiểu phải có các giấy từ nào? - Giấy đề nghị thanh toán đã được phê duyệt, hóa đơn, bill chi tiết, tờ trình teambuilding, danh sách người tham dự
+
+Trừ một số loại chi phí đặc biệt, các khoản chi phí phát sinh phải được thanh toán trong vòng bao nhiều ngày kể từ ngày phát sinh chi phí? - 5 ngày
+
+Hóa đơn có giá trị từ bao nhiều tiên bắt buộc phải thanh toán qua ngân hàng? - Từ 20 triệu đồng trở lên
+
+Một bộ hồ sơ thanh toán kết thúc chuyến công tác nước ngoài tối thiếu gồm có các giấy từ nào? - Giấy đề nghị thanh toán đã được phê duyệt, tờ trình gốc, vé máy bay, boarding pas, chứng từ khác nếu có (taxi, khách san), bằng kê chi tiết chi phí đi lại ghi rõ ngày, bảng dịch chứng từ (nếu là chứng từ bằng tiếng nước ngoài)
+
+Một nhân viên A muốn thanh toán một khoản chi phí teambuilding nên đã log đề nghị thanh toán lên hệ thống phê duyệt online. Đề nghị thanh toán đã được các manager liên quan phê duyệt. Như vậy đề nghị thanh toán này đã được duyệt thanh toán hay chưa? Vi sao? - Chưa vì sau khi manager phê duyệt người làm đề nghị thanh toán, cần in đề nghị thanh toán cũng đầy đủ hồ sơ bản cứng lên AF
+kiếm tra, duyệt thanh toán và tiến hành chi trả cho người đề nghị.
+
+CBNV khi submit thanh toán đê nghị thanh toán có cần phải attach bản mềm không? - Có
+
+Giá trị thanh toán hàng hóa, dịch vụ từ bao nhiều tiền sẽ bắt buộc phải viết hóa đơn GTGT? - Giá trị thanh toán hàng hóa, dịch vụ từ bao nhiều tiền sẽ bắt buộc phải viết hóa đơn GTGT? - Người bản lập hóa đơn gửi cho người mua khi bản hàng hóa, cung ứng dịch vụ không phân biệt giá trị từng lần
+bán hàng hóa, cung cấp dịch vụ
+
+Nội dung của hóa đơn ăn uống ghi thế nào là đúng? - Ghi chi tiết danh mục hàng hóa
+
+Trừ trường hợp đặc biệt, thời hạn để kế toán xử lý hồ sơ tạm ứng là bao lâu? - 3 — 5 ngày làm việc kể từ ngày kế toán nhân được hồ sơ bản cứng đầy đủ. Trường hợp tạm ứng cho nhà cung cấp sẽ căn cứ vào điều khoản thanh toán được quy định trong hợp đồng.
+
+Có bắt buộc phải gửi mail mã tra cứu và link tra cứu hóa đơn điện tử cho AF không? - Có
+
+Thông tin trên hóa đơn cần đảm bảo các yếu tố nào? - Tất cả các yếu tố trên
+
+CBNV khi submit thanh toán Hợp đồng dịch vụ cá nhân, trường tên nhà cung cấp cần điền là thông tin gì? - Họ và tên của cá nhân cung ứng dịch vụ
+theo Hợp đồng.
+
+Trừ trường hợp đặc biệt, thời hạn để kếtoán xử lý hồ sơ thanh toán là bao lâu? - Trừ trường hợp đặc biệt, thời hạn để kế toán xử lý hồ sơ thanh toán là bao lâu?
+
+CBNV khi submit thanh toán trên hệ thống thanh toán online xong cần phải làm gì tiếp theo? - Push trưởng bộ phận duyệt. in chứng từ bản cứng và gửi lên bộ phận kế toán để thanh toán
+
+Một bộ hồ sơ tạm ứng công tác bằng ngoại tệ gồm những gì? - Giấy đề nghị tạm ứng, tờ trình, quyết định cử đi công tác, visa, hộ chiếu, vé máy bay
+
+Bill taxi được thanh toán như thế nào? - Không được thanh toán nếu không có hóa đơn điện tử.

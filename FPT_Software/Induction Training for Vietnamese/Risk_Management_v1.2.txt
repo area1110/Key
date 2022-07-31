@@ -1,0 +1,18 @@
+Sắp xếp các gợi ý dưới đây phù hợp với hình ảnh để hoàn thành định nghĩa về RỦI RO. - Những sự kiện không rõ ràng, không chắc chắn có thể Tác động tiêu cực lên Việc hoàn thành mục tiêu
+
+Lựa chọn nào trong các nhận định sau, phù hợp nhất với hình ảnh được mô tả bên dưới? - Rủi ro, hầu hết là, những sự kiện không rõ ràng, không chắc chắn có thể tác động tiêu cực lên việc hoàn thành mục tiêu của chúng ta
+
+Lựa chọn một phương án trả lời cho các nhận định sau Mục tiêu của quản lý rủi ro là: Giảm các tác động tiêu cực của rủi ro lên các mục tiêu. Tăng cơ hội hoàn thành mục tiêu
+
+Nguyên nhân - rủi ro - kết quả
+
+Do thời gian tham gia quá ngắn. Tester A chưa tìm hiểu kỹ các nghiệp vụ của sản phẩm -> Các testcase có thể được viếc không đầy đủ, không bao quát được các nghiệp vụ của sản phẩm. Các lỗi tiềm ẩn của sản phẩm có thể không được phát hiện. -> Chất lượng phần mềm có thể không được đảm bảo trước khi sản phẩm được chuyển giao cho khách hàng
+
+PM B bị giới hạn về thời gian đánh giá một dự án lớn trị giá 100MM với công nghệ và domain lạ, FSOFT lần đầu tiên thực hiện -> Đánh giá không chính xác phạm vi của dự án có thể xảy ra -> Dự án có thể không thành công
+
+Trong4 nărn.từ năm 2001 đến 201x. ở một dự án A. QA chưa được giao đúng quyền hạn để quản lý và dự bảo chất luợng dự án. QA chỉ làm những công việc mang tính chất thư ký dự án và hỗ trợ dự án. -> Chẩtlượng dịch vụ cung cấp cho khách hàng ở dự án A có thể không đáp ứng được như kỳ vọng -> Các khách hàng có thể không tiếp tục hợp tác với FSOFÍ đồng nghĩa với việc doanh thu của Công ty bị giảm
+
+Thời điểm quý 2 năm 20xx, FSoft thực hiện bàn giao sản phẩm (A) cho một khách hàng (B) trước khi nhận thanh toán -> FSoft có thể sẽ chịu rủi ro tín dụng đối với khoản thanh toán này trong trường hợp — khách hàng (8) có thể không (hoặc từ chối) thanh toán hoặc thực hiện việc thanh toán quá chậm -> Làm cho dòng tiền của FSoft bị ứ đọng và không luân chuyển được vốn
+
+Trong giai đoạn từnăm 201gtới năm 201y. công ty A có chiến lược tập trung phát triển theo chiều sâu. thực hiện khai thác những thế mạnh về công nghệ Công ty A đang có để cung cấp sản phẩm & dịch vụ cho khách hàng, nhưng lại thiếu nghiên cứu và tìm hiểu những công nghệ mới -> Vấn đề về sản phẩm lỗi thời sẽ có thể xảy ra khi sản phẩm hoặc công nghệ mà Cộng ty A đang sử dụng trong sản xuẩt trở nên lỗi thời -> Các sản phẩm của Công ty A có thể không đủ
+cạnh tranh trên thị trường, sản phẩm bán chậm (hoặc có thể không bán được), doanh thu giảm
